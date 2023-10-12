@@ -1,3 +1,0 @@
-﻿  main.cpp
-F:\CPP\STL\Employee_grouping03\Employee_grouping03\main.cpp(59,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  Employee_grouping03.vcxproj -> F:\CPP\STL\Employee_grouping03\x64\Debug\Employee_grouping03.exe

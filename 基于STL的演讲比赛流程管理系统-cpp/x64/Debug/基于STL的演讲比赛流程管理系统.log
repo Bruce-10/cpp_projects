@@ -1,0 +1,25 @@
+﻿  speechManager.cpp
+F:\CPP_code\Project\基于STL的演讲比赛流程管理系统\speechManager.cpp(106,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPP_code\Project\基于STL的演讲比赛流程管理系统\speechManager.cpp(114,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\CPP_code\Project\基于STL的演讲比赛流程管理系统\speechManager.cpp(270,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\IDE\VS\VC\Tools\MSVC\14.34.31933\include\numeric(34,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+F:\IDE\VS\VC\Tools\MSVC\14.34.31933\include\numeric(41,89): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+F:\CPP_code\Project\基于STL的演讲比赛流程管理系统\speechManager.cpp(147,55): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>>
+          ]
+  演讲比赛管理系统.cpp
+  正在生成代码...
+  基于STL的演讲比赛流程管理系统.vcxproj -> F:\CPP_code\Project\基于STL的演讲比赛流程管理系统\x64\Debug\基于STL的演讲比赛流程管理系统.exe
